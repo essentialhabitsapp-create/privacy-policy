@@ -61,7 +61,7 @@ You have the right to:
 - **Access** your data at any time — everything you've entered is visible within the app.
 - **Delete** your data — you can delete individual items (habits, tasks, goals, notes)
   or reset all app data from the Settings screen.
-- **Delete your account** — go to the Account screen and tap "Delete my account".
+- **Delete your account** — go to the settings screen and tap "Delete my account".
   This permanently removes your cloud-stored data. Local data can be cleared by
   uninstalling the app.
 - **Use the app without an account** — a guest mode is available that stores all
